@@ -21,11 +21,8 @@
         </style>
     </head>
     <body class="antialiased">
-    <ul>
-@foreach ($users as $user)
-    <li>ID: {{ $user['id'] }}, NAME: {{ $user['name'] }}</li>
-@endforeach
-</ul>
+
+
 
 <!-- component -->
 <div class="overflow-x-auto">
