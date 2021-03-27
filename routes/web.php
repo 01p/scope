@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\XMLreader;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -17,4 +17,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/xml', 'XMLController@index');
+//Route::get('/xml', 'XMLController@index');
+
+// Route::get('/path', 'Controler File');
+
+Route::get('xml', [XMLreader::class,'index']);

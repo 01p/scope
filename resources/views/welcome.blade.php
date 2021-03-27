@@ -21,27 +21,11 @@
         </style>
     </head>
     <body class="antialiased">
-    @foreach($items ?? '' as $item)
-    <table class="pack-table">
-        <tr>
-            <th width="30%">Color</th>
-            <th width="10%">Pack</th>
-            <th width="60%">Total Units</th>
-        </tr>
-        @foreach($item['grid'] as $color => $sizes)
-            <tr>
-                <td colspan="3" align="left">{{ $color }}</td>
-            </tr>
-            @foreach ($sizes as $size)
-                <tr>
-                    <td></td>
-                    <td>{{ $size['description'] }}</td>
-                    <td>{{ $size['total'] }}</td>
-                </tr>
-            @endforeach
-        @endforeach
-    </table>
+    <ul>
+@foreach ($users as $user)
+    <li>ID: {{ $user['id'] }}, NAME: {{ $user['name'] }}</li>
 @endforeach
+</ul>
 
 <!-- component -->
 <div class="overflow-x-auto">
