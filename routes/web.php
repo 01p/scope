@@ -2,7 +2,12 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\XMLreader;
+use App\Http\Controllers\test;
 /*
+
+    
+
+
 |--------------------------------------------------------------------------
 | Web Routes
 |--------------------------------------------------------------------------
@@ -26,3 +31,5 @@ Route::get('/', function () {
 
 
 Route::get('xml', [XMLreader::class,'index']);
+
+Route::get('t', [test::class,'index']);

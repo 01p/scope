@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<n1:AuditFile xmlns:n1="urn:StandardAuditFile-Taxation-Financial:NO">
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<n1:AuditFile xmlns:n1='urn:StandardAuditFile-Taxation-Financial:NO'>
   <n1:Header>
     <n1:AuditFileVersion>1.10</n1:AuditFileVersion>
     <n1:AuditFileCountry>NO</n1:AuditFileCountry>
@@ -13006,7 +13006,7 @@ Torvgata 2</n1:StreetName>
         <n1:Line>
           <n1:RecordID>GL276480994</n1:RecordID>
           <n1:AccountID>1920PKEY92783</n1:AccountID>
-          <n1:Description>"Crunch - Limited Liability Company Telebank Ref.: V55114 Usd          11.840,00"</n1:Description>
+          <n1:Description>'Crunch - Limited Liability Company Telebank Ref.: V55114 Usd          11.840,00'</n1:Description>
           <n1:CreditAmount>
             <n1:Amount>107931.07</n1:Amount>
           </n1:CreditAmount>
@@ -13014,7 +13014,7 @@ Torvgata 2</n1:StreetName>
         <n1:Line>
           <n1:RecordID>GL276480995</n1:RecordID>
           <n1:AccountID>1920PKEY92783</n1:AccountID>
-          <n1:Description>"Crunch - Limited Liability Company Telebank Ref.: V55136 Usd           8.960,00"</n1:Description>
+          <n1:Description>'Crunch - Limited Liability Company Telebank Ref.: V55136 Usd           8.960,00'</n1:Description>
           <n1:CreditAmount>
             <n1:Amount>80086.27</n1:Amount>
           </n1:CreditAmount>
@@ -13024,7 +13024,7 @@ Torvgata 2</n1:StreetName>
           <n1:AccountID>2400</n1:AccountID>
           <n1:ValueDate>2020-09-18</n1:ValueDate>
           <n1:SupplierID>PKEY21124597</n1:SupplierID>
-          <n1:Description>"Crunch - Limited Liability Company Telebank Ref.: V55114 Usd          11.840,00"</n1:Description>
+          <n1:Description>'Crunch - Limited Liability Company Telebank Ref.: V55114 Usd          11.840,00'</n1:Description>
           <n1:DebitAmount>
             <n1:Amount>107931.07</n1:Amount>
           </n1:DebitAmount>
@@ -13036,7 +13036,7 @@ Torvgata 2</n1:StreetName>
           <n1:AccountID>2400</n1:AccountID>
           <n1:ValueDate>2020-09-18</n1:ValueDate>
           <n1:SupplierID>PKEY21124597</n1:SupplierID>
-          <n1:Description>"Crunch - Limited Liability Company Telebank Ref.: V55136 Usd           8.960,00"</n1:Description>
+          <n1:Description>'Crunch - Limited Liability Company Telebank Ref.: V55136 Usd           8.960,00'</n1:Description>
           <n1:DebitAmount>
             <n1:Amount>80086.27</n1:Amount>
           </n1:DebitAmount>
@@ -13240,7 +13240,7 @@ Torvgata 2</n1:StreetName>
         <n1:Line>
           <n1:RecordID>GL276963839</n1:RecordID>
           <n1:AccountID>1920PKEY92783</n1:AccountID>
-          <n1:Description>"054279880247100322956769445548 Usd 11,95 Aws Emea Valutakurs:     9,1531"</n1:Description>
+          <n1:Description>'054279880247100322956769445548 Usd 11,95 Aws Emea Valutakurs:     9,1531'</n1:Description>
           <n1:CreditAmount>
             <n1:Amount>109.38</n1:Amount>
             <n1:CurrencyCode>USD</n1:CurrencyCode>
@@ -15007,7 +15007,7 @@ Torvgata 2</n1:StreetName>
         <n1:Line>
           <n1:RecordID>GL276617679</n1:RecordID>
           <n1:AccountID>1920PKEY92783</n1:AccountID>
-          <n1:Description>"Se Detaljer i Fakturaoversikt Nettb August 2020 For Foretak 00918874224"</n1:Description>
+          <n1:Description>'Se Detaljer i Fakturaoversikt Nettb August 2020 For Foretak 00918874224'</n1:Description>
           <n1:CreditAmount>
             <n1:Amount>1311.25</n1:Amount>
           </n1:CreditAmount>
@@ -15261,7 +15261,7 @@ Torvgata 2</n1:StreetName>
         <n1:Line>
           <n1:RecordID>GL276963867</n1:RecordID>
           <n1:AccountID>1920PKEY92783</n1:AccountID>
-          <n1:Description>"054987500257000515163724445557 Eur 756,50 Hs_ireland Valutakurs:    10,9580"</n1:Description>
+          <n1:Description>'054987500257000515163724445557 Eur 756,50 Hs_ireland Valutakurs:    10,9580'</n1:Description>
           <n1:CreditAmount>
             <n1:Amount>8289.73</n1:Amount>
             <n1:CurrencyCode>EUR</n1:CurrencyCode>
@@ -15274,7 +15274,7 @@ Torvgata 2</n1:StreetName>
           <n1:AccountID>2400</n1:AccountID>
           <n1:ValueDate>2020-09-15</n1:ValueDate>
           <n1:SupplierID>PKEY21171386</n1:SupplierID>
-          <n1:Description>"054987500257000515163724445557 Eur 756,50 Hs_ireland Valutakurs:    10,9580"</n1:Description>
+          <n1:Description>'054987500257000515163724445557 Eur 756,50 Hs_ireland Valutakurs:    10,9580'</n1:Description>
           <n1:DebitAmount>
             <n1:Amount>8289.73</n1:Amount>
             <n1:CurrencyCode>EUR</n1:CurrencyCode>
